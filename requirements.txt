@@ -1,0 +1,17 @@
+﻿pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+geopandas
+osmnx
+shapely
+folium
+streamlit-folium
+scikit-learn
+scipy
+requests
+python-dotenv
+openpyxl
+pyarrow
